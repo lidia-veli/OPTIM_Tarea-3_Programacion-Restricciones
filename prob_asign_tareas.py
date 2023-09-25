@@ -43,5 +43,9 @@ def assign_tasks():
     else:
         print("No se encontró una asignación óptima.")
 
+
+
+# CODIGO EJECUTABLE
+
 if __name__ == "__main__":
     assign_tasks()
